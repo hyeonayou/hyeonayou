@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=238&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=223&section=header&text=Welcome&fontSize=90)
 <!--
 **hyeonayou/hyeonayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
