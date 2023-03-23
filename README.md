@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=225&section=header&text=Welcome&fontSize=90)
+
+![hyeonayou's github stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&show_icons=true)
+
+
 <!--
 
 
