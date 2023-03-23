@@ -1,4 +1,4 @@
-### 백엔드 주니어 개발자 인사드립니다~~ 👋
+### 주니어 백엔드 개발자 인사드립니다~~ 👋
 
 <!--
 **hyeonayou/hyeonayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
