@@ -4,6 +4,12 @@
 ### 주니어 백엔드 개발자 인사드립니다~~ 👋
 
 
+#6DB33F
+
+
+
+![hyeonayou's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&theme=dark&show_icons=true)
+
 ![hyeonayou's github stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&show_icons=true)
 
 
