@@ -11,7 +11,6 @@
 
 ![hyeonayou's github stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonayou&layout=compact)](https://github.com/hyeonayou/github-readme-stats)
 
 
 <!--
