@@ -8,7 +8,6 @@
 
 
 
-![hyeonayou's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&theme=dark&show_icons=true)
 
 ![hyeonayou's github stats](https://github-readme-stats.vercel.app/api?username=hyeonayou&show_icons=true)
 
