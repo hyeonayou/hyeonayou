@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=225&section=header&text=Welcome&fontSize=90)
 
 
-### 주니어 백엔드 개발자 인사드립니다~~ 👋
+### 주니어 백엔드 개발자 유현아 인사드립니다~~ 👋
 
 
 #6DB33F
